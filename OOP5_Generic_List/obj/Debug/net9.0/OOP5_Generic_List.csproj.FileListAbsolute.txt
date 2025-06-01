@@ -1,0 +1,42 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.csproj.AssemblyReference.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Gen.BD170B6A.Up2Date
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\refint\OOP5_Generic_List.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\ref\OOP5_Generic_List.dll
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.deps.json
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.runtimeconfig.json
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.exe
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.exe
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.deps.json
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.runtimeconfig.json
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.dll
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.pdb
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.dll
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.pdb
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.csproj.AssemblyReference.cache
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.AssemblyInfoInputs.cache
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.AssemblyInfo.cs
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Gen.BD170B6A.Up2Date
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.dll
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\refint\OOP5_Generic_List.dll
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.pdb
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.genruntimeconfig.cache
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\ref\OOP5_Generic_List.dll

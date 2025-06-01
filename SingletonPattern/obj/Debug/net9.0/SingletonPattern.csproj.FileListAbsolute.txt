@@ -1,0 +1,14 @@
+D:\Elearning\CrossPlatform_CSharp\Chapter5\SingletonPattern\bin\Debug\net9.0\SingletonPattern.exe
+D:\Elearning\CrossPlatform_CSharp\Chapter5\SingletonPattern\bin\Debug\net9.0\SingletonPattern.deps.json
+D:\Elearning\CrossPlatform_CSharp\Chapter5\SingletonPattern\bin\Debug\net9.0\SingletonPattern.runtimeconfig.json
+D:\Elearning\CrossPlatform_CSharp\Chapter5\SingletonPattern\bin\Debug\net9.0\SingletonPattern.dll
+D:\Elearning\CrossPlatform_CSharp\Chapter5\SingletonPattern\bin\Debug\net9.0\SingletonPattern.pdb
+D:\Elearning\CrossPlatform_CSharp\Chapter5\SingletonPattern\obj\Debug\net9.0\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elearning\CrossPlatform_CSharp\Chapter5\SingletonPattern\obj\Debug\net9.0\SingletonPattern.AssemblyInfoInputs.cache
+D:\Elearning\CrossPlatform_CSharp\Chapter5\SingletonPattern\obj\Debug\net9.0\SingletonPattern.AssemblyInfo.cs
+D:\Elearning\CrossPlatform_CSharp\Chapter5\SingletonPattern\obj\Debug\net9.0\SingletonPattern.csproj.CoreCompileInputs.cache
+D:\Elearning\CrossPlatform_CSharp\Chapter5\SingletonPattern\obj\Debug\net9.0\SingletonPattern.dll
+D:\Elearning\CrossPlatform_CSharp\Chapter5\SingletonPattern\obj\Debug\net9.0\refint\SingletonPattern.dll
+D:\Elearning\CrossPlatform_CSharp\Chapter5\SingletonPattern\obj\Debug\net9.0\SingletonPattern.pdb
+D:\Elearning\CrossPlatform_CSharp\Chapter5\SingletonPattern\obj\Debug\net9.0\SingletonPattern.genruntimeconfig.cache
+D:\Elearning\CrossPlatform_CSharp\Chapter5\SingletonPattern\obj\Debug\net9.0\ref\SingletonPattern.dll
