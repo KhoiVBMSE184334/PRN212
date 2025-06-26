@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="VoBaMinhKhoiWPF.Views.ProductView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Height="Auto" Width="Auto">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Tiêu đề + Nút -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="0 0 0 10">
+            <TextBlock Text="Product Management"
+                       FontSize="18"
+                       FontWeight="Bold"
+                       VerticalAlignment="Center"
+                       Margin="0 0 20 0"/>
+            <Button Content="Add" Click="Add_Click" Width="80" Margin="0 0 10 0"/>
+            <Button Content="Edit" Click="Edit_Click" Width="80" Margin="0 0 10 0"/>
+            <Button Content="Delete" Click="Delete_Click" Width="80"/>
+        </StackPanel>
+
+        <!-- Danh sách sản phẩm -->
+        <DataGrid x:Name="ProductGrid"
+                  Grid.Row="1"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  SelectionMode="Single"
+                  Height="300">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding ProductID}" Width="Auto"/>
+                <DataGridTextColumn Header="Name" Binding="{Binding ProductName}" Width="*"/>
+                <DataGridTextColumn Header="Category" Binding="{Binding CategoryID}" Width="Auto"/>
+                <DataGridTextColumn Header="Price" Binding="{Binding UnitPrice}" Width="Auto"/>
+                <DataGridTextColumn Header="Stock" Binding="{Binding UnitsInStock}" Width="Auto"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

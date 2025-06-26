@@ -1,0 +1,17 @@
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\bin\Debug\net9.0\Repositories.deps.json
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\bin\Debug\net9.0\Repositories.dll
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\bin\Debug\net9.0\Repositories.pdb
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\bin\Debug\net9.0\BusinessObject.dll
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\bin\Debug\net9.0\DataAccessObject.dll
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\bin\Debug\net9.0\BusinessObject.pdb
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\bin\Debug\net9.0\DataAccessObject.pdb
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\obj\Debug\net9.0\Repositories.csproj.AssemblyReference.cache
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\obj\Debug\net9.0\Reposito.787EC4B2.Up2Date
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\obj\Debug\net9.0\Repositories.dll
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\obj\Debug\net9.0\refint\Repositories.dll
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\obj\Debug\net9.0\Repositories.pdb
+D:\PRN212\Lab1\VoBaMinhKhoi_SE1848_A01\Repositories\obj\Debug\net9.0\ref\Repositories.dll

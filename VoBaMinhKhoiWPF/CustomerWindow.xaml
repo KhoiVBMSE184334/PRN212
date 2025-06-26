@@ -1,0 +1,25 @@
+﻿<Window x:Class="VoBaMinhKhoiWPF.CustomerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Customer Dashboard"
+        Height="500" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Sidebar -->
+        <StackPanel Background="#2D2D30" Grid.Column="0">
+            <TextBlock Text="Welcome, Customer" Foreground="White" FontSize="18"
+                       FontWeight="Bold" Margin="0 20" HorizontalAlignment="Center"/>
+            <Button Content="My Orders" Click="Orders_Click" Margin="10"/>
+            <Button Content="Edit Profile" Click="Profile_Click" Margin="10"/>
+            <Button Content="Logout" Click="Logout_Click" Margin="10" Foreground="Red"/>
+        </StackPanel>
+
+        <!-- Main content -->
+        <ContentControl x:Name="MainContent" Grid.Column="1" Margin="10"/>
+    </Grid>
+</Window>
